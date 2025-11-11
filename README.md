@@ -1,4 +1,3 @@
-# INFO
 # 💫 About Me:
 I'm Samuel Andrey Zapata, a Backend Development student. My main focus is advanced Java development with Spring Boot, complemented by a solid foundation in other languages.<br><br>I consider myself a proactive person with a quick learning ability and a deep thirst for knowledge. I'm passionate about writing code, constantly learning new languages, and understanding the software architectures that build effective solutions.
 
