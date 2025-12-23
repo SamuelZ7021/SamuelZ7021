@@ -37,7 +37,5 @@ I'm a Backend Development student passionate about building scalable solutions u
 ### 📊 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamuelZ7021&theme=aura&hide_border=true&show_icons=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelZ7021&theme=aura&hide_border=true&layout=compact" height="150" alt="languages graph" 
-    />
-  <img  src="https://github-contributor-stats.vercel.app/api?username=SamuelZ7021&limit=5&theme=jolly&combine_all_yearly_contributions=true&v=1" heigt="150" alt="Contributions"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelZ7021&theme=aura&hide_border=true&layout=compact" height="150" alt="languages graph" />
 </div>
